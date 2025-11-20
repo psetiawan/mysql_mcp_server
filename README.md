@@ -3,10 +3,10 @@ MCP MySQL server for Continue.dev (MCP 2024 compatible). Tested at Visual Studio
 
 
 ## Install
-go to your current project folder
-git clone https://github.com/psetiawan/mysql_mcp_server.git
-cd mysql_mcp_server
-npm install
+- go to your current project folder
+- git clone https://github.com/psetiawan/mysql_mcp_server.git
+- cd mysql_mcp_server
+- npm install
 
 ## Run
 for testing
