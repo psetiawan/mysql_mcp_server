@@ -1,0 +1,14 @@
+{
+  "name": "mysql-mcp-server-patched",
+  "version": "1.0.1",
+  "description": "Patched MCP server for MySQL - MCP 2024 compliant for Continue.dev",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js --mysql --host localhost --database DBNAME --user USERNAME --password <password>"
+  },
+  "dependencies": {
+    "mysql2": "^3.3.0",
+    "yargs": "^17.7.2"
+  }
+}
