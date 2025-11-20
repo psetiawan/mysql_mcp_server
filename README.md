@@ -4,7 +4,10 @@ MCP MySQL server for Continue.dev (MCP 2024 compatible). Tested at Visual Studio
 
 ## Install
 - go to your current project folder
-- git clone https://github.com/psetiawan/mysql_mcp_server.git
+- 
+```
+git clone https://github.com/psetiawan/mysql_mcp_server.git
+```
 - cd mysql_mcp_server
 - npm install
 
@@ -52,4 +55,3 @@ at continue prompt (agent/chat/plan) use @mysql-mcp resources, for example @user
 ## Notes
 - This implementation implements initialize/initialized, resources/templates/list and resources/templates/get,
   returns full resource descriptors with name, description, mimeType, and provides full tool descriptors with inputSchema.
-- The zip also includes your original uploaded file at /mnt/data/index.js for reference.
