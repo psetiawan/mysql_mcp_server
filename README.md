@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="mcp-logo.png" width="180" alt="MySQL MCP Server Logo">
+</p>
+
 # mysql-mcp-server
 MCP MySQL server for Continue.dev (MCP 2024 compatible). Tested at Visual Studio Code (1.106.2), Continue.Dev (1.2.10), Local LLM Connected to ollama model Qwen3-Coder:8b. Please check continue mcp yaml example
 
